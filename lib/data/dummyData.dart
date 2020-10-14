@@ -30,6 +30,7 @@ class Quotes {
     'We cannot solve our problems with the same thinking we used when we created them. – Albert Einstein, Physicist',
     'We do not inherit the Earth from our ancestors; we borrow it from our children. – Native American Proverb',
     'We never know the worth of water till the well is dry. – Thomas Fuller, Historian',
+    'We do not inherit the Earth from our ancestors; we borrow it from our children. – Native American Proverb',
     'Recycling, packaging, businesses are changing all of those things because that’s what consumers want. – Jerry Greenfield, Co-founder of Ben & Jerry’s Ice Cream',
     '“Buy less, choose well. – Vivienne Westwood, Fashion Designer',
     'At its core, the issue of a clean environment is a matter of public health. – Gina McCarthy, Administrator for the U.S. Environmental Protection Agency',
