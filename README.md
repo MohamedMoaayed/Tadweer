@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+![Alt text](https://github.com/MohamedMoaayed/Tadweer/blob/main/ezgif-3-0bea29e1a9f5.gif?raw=true)
+
 
 This project is a starting point for a Flutter application.
 
